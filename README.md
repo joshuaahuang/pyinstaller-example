@@ -1,6 +1,6 @@
 # Quick Start
 
-[PyInstaller documentation - https://pyinstaller.org/en/stable/#using-pyinstaller](#https://pyinstaller.org/en/stable/#using-pyinstaller)
+[PyInstaller documentation - Link](#https://pyinstaller.org/en/stable/#using-pyinstaller)
 
 1. Write a working Python script
 
