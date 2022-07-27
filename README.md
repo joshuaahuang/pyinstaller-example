@@ -11,3 +11,5 @@
 
 4. Once done, generate standalone binary:
 `pyinstaller --onefile your_file_name.py`
+
+The binary can be found in the `dist` folder and ran using `./your_file_name`
